@@ -1,6 +1,8 @@
 # 🐳 Install Docker & MicroK8s on Ubuntu
 
 This guide will walk you through installing **Docker Engine** and **MicroK8s** on an Ubuntu system.
+#[banner](![image](https://github.com/user-attachments/assets/21320235-ee42-4ab0-89be-acd8c66f2087)
+
 
 ---
 
